@@ -1,0 +1,220 @@
+.root {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  align-items: flex-start;
+  border-radius: 100px;
+  background-color: #ffffff1a;
+}
+.rectangle2 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1500px;
+  height: 965px;
+  border-radius: 100px;
+  background-image:/* webpackIgnore: true */ url('assets/rectangle2.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle3 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1500px;
+  height: 965px;
+  border-radius: 100px;
+  background-color: #e8f0d8e5;
+}
+.home {
+  color: #000;
+  font-size: 36px;
+  font-weight: 500;
+  font-family: DM Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 459px;
+  top: 84px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.menu {
+  color: #686363;
+  font-size: 32px;
+  font-family: DM Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 618px;
+  top: 88px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.aboutUs {
+  color: #686363;
+  font-size: 32px;
+  font-family: DM Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 758px;
+  top: 88px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.contact {
+  color: #686363;
+  font-size: 32px;
+  font-family: DM Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 953px;
+  top: 88px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.signUp {
+  color: #686363;
+  font-size: 32px;
+  font-family: DM Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1309px;
+  top: 88px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.kantinku {
+  color: #2a770f;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: DM Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 60px;
+  top: 75px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.weDeliverDeliciousHealthyFood {
+  position: absolute;
+  left: 60px;
+  top: 180px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock {
+  color: #2a770f;
+  font-size: 96px;
+  font-weight: bold;
+  font-family: DM Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #2a770f;
+  font-size: 96px;
+  font-weight: bold;
+  font-family: DM Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock3 {
+  margin-top: 0;
+  color: #2a770f;
+  font-size: 96px;
+  font-weight: bold;
+  font-family: DM Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.rectangle4 {
+  position: absolute;
+  left: 466px;
+  top: 129px;
+  width: 81px;
+  height: 11px;
+  background-color: #2a770f;
+}
+.ellipse1 {
+  position: absolute;
+  left: 789px;
+  top: 256px;
+  width: 520px;
+  height: 520px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.downloadRemovebgPreview1 {
+  transform-origin: top left;
+  position: absolute;
+  left: 921.4928px;
+  top: 911.6471px;
+  width: 226.1044px;
+  height: 160.6532px;
+  background-image:/* webpackIgnore: true */ url('assets/downloadRemovebgPreview1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transform: matrix(-1, 0.0087, -0.0087, -1, 0, 0);
+}
+.unnamed_1_RemovebgPreview1 {
+  transform-origin: top left;
+  position: absolute;
+  left: 1266.8945px;
+  top: 229px;
+  width: 276.1031px;
+  height: 192.8805px;
+  background-image:/* webpackIgnore: true */ url('assets/unnamed_1_RemovebgPreview1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transform: matrix(0.9379, 0.3468, -0.3468, 0.9379, 0, 0);
+}
+.rectangle5 {
+  position: absolute;
+  left: 60px;
+  top: 811.5278px;
+  width: 260px;
+  height: 88.4722px;
+  border-radius: 10px;
+  background-color: #3a9b17;
+}
+.daftarMenu {
+  color: #fff;
+  font-size: 36px;
+  font-family: DM Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 81px;
+  top: 832px;
+  width: 223px;
+  height: 43px;
+  flex-direction: column;
+}
+.vector {
+  position: absolute;
+  left: 83.6%;
+  right: 13.8667%;
+  top: 9.7409%;
+  bottom: 86.3212%;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
